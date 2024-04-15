@@ -1,0 +1,317 @@
+{
+    "ingredients" : [
+        {
+            "id" : 1,
+            "title" : "Мезофильная закваска Danisco CHOOZIT MM...",
+            "price" : 1300,
+            "second-price" : 1800,
+            "things" : "1 шт.",
+            "image" : "./imges/Logo.svg",
+            "link" : "./img/light-sand.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Душистый перец горошком (100г)",
+            "price" : 200,
+            "second-price" : 320,
+            "things" : "1 шт.",
+            "image" : "./img/gorchok.jpg",
+            "link" : "./img/gorchok.jpg"
+        },
+        {
+            "id" : 3,
+            "title" : "Красный перец молотый (100г)",
+            "price" : 380,
+            "second-price" : 400,
+            "things" : "1 шт.",
+            "image" : "./img/spidometr.jpg",
+            "link" : "./img/spidometr.jpg"
+        },
+        {
+            "id" : 4,
+            "title" : "Мускатный орех молотый (100г)",
+            "price" : 420,
+            "second-price" : 560,
+            "things" : "1 шт.",
+            "image" : "./img/zoom.jpg",
+            "link" : "./img/zoom.jpg"
+        },
+        {
+            "id" : 5,
+            "title" : "Форма для твердого сыра 1 кг",
+            "price" : 1300,
+            "second-price" : 1800,
+            "things" : "1 шт.",
+            "image" : "./img/yellow-sand.jpg",
+            "link" : "./img/yellow-sand.jpg"
+        },
+        {
+            "id" : 6,
+            "title" : "Душистый перец горошком (100г)",
+            "price" : 200,
+            "second-price" : 320,
+            "things" : "1 шт.",
+            "image" : "./img/red-sand.jpg",
+            "link" : "./img/red-sand.jpg"
+        },
+        {
+            "id" : 7,
+            "title" : "Красный перец молотый (100г)",
+            "price" : 380,
+            "second-price" : 400,
+            "things" : "1 шт.",
+            "image" : "./img/brown-sand.jpg",
+            "link" : "./img/brown-sand.jpg"
+        },
+        {
+            "id" : 8,
+            "title" : "Мускатный орех молотый (100г)",
+            "price" : 420,
+            "second-price" : 560,
+            "things" : "1 шт.",
+            "image" : "./img/green-sand.jpg",
+            "link" : "./img/green-sand.jpg"
+        }
+    ],
+    "plate": [
+        {
+            "id" : 1,
+            "name" : "Сырная тарелка",
+            "image" : "./img/cheese-plate.jpg",
+            "title" : "Так называется блюдо, которое состоит из разных сортов сыра. ",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese-plate.jpg"
+        }
+    ],
+    "basket" : [
+        {
+            "id" : 1,
+            "title" : "Мезофильная закваска Danisco CHOOZIT MM...",
+            "price" : 440,
+            "things" : "1 шт.",
+            "image" : "./img/light-sand.jpg",
+            "link" : "./img/light-sand.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Душистый перец горошком (100г)",
+            "price" : 1240,
+            "things" : "1 шт.",
+            "image" : "./img/gorchok.jpg",
+            "link" : "./img/gorchok.jpg"
+        },
+        {
+            "id" : 3,
+            "inBasket" : "5 шт.",
+            "price" : 1680
+        }
+    ],
+    "available-card" : [
+        {
+            "id" : 1,
+            "title" : "Мезофильная закваска Hansen Flora Danica (50U)",
+            "price" : 950,
+            "second-price" : 1200,
+            "reviews" : 2,
+            "on" : "В наличии",
+            "bonus" : "+95",
+            "articul" : "23006",
+            "company" : "Lactofarm ECO, Италия",
+            "image" : "./img/hansen.jpg",
+            "first-3d-image" : "./img/mini-biochem.jpg",
+            "second-3d-image" : "./img/mini-zoom.jpg",
+            "third-3d-image" : "./img/mini-gorchok.jpg",
+            "link" : "./img/hansen.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Мезофильная закваска Biochem Lactoferm MSO (20U)",
+            "price" : 1250,
+            "made-in" : "Стоик, Россия",
+            "image" : "./img/biochem.jpg",
+            "link" : "./img/biochem.jpg"
+        },
+        {
+            "id" : 3,
+            "title" : "Мезофильная закваска БК-Углич-5А (1ЕА)",
+            "price" : 650,
+            "made-in" : "Углич, Россия",
+            "image" : "./img/biochem.jpg",
+            "link" : "./img/biochem.jpg"
+        },
+        {
+            "id" : 4,
+            "title" : "Мезофильная закваска Hansen Flora Danica (50U)",
+            "price" : 850,
+            "made-in" : "Chr. Hansen, Дания",
+            "image" : "./img/biochem.jpg",
+            "link" : "./img/biochem.jpg"
+        }
+    ],
+    "leave-review" : [
+        {
+            "id" : 1,
+            "title" : "Ароматобразующая закваска Danisсo Choozit Flav 43 LYO (5d)",
+            "price" : 950,
+            "second-price" : 1200,
+            "reviews" : 2,
+            "articul" : "23006",
+            "company" : "Lactofarm ECO, Италия",
+            "image" : "./img/danisco.jpg",
+            "link" : "./img/danisco.jpg"
+        }
+    ],
+    "item-added" : [
+        {
+            "id" : 1,
+            "title" : "Ароматобразующая закваска Danisсo Choozit Flav 43 LYO (5d)",
+            "things" : "2 шт.",
+            "bonus" : "+99",
+            "articul" : "23006",
+            "company" : "Lactofarm ECO, Италия",
+            "image" : "./img/danisco.jpg",
+            "link" : "./img/danisco.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Паприка зеленая сушенная",
+            "price" : 960,
+            "second-price" : 1240,
+            "image" : "./img/yellow-sand.jpg",
+            "link" : "./img/yellow-sand.jpg"
+        },
+        {
+            "id" : 3,
+            "title" : "Мускатный орех цельный",
+            "price" : 340,
+            "second-price" : 120,
+            "image" : "./img/red-sand.jpg",
+            "link" : "./img/red-sand.jpg"
+        },
+        {
+            "id" : 4,
+            "title" : "Красный перец молотый",
+            "price" : 230,
+            "second-price" : 360,
+            "image" : "./img/brown-sand.jpg",
+            "link" : "./img/brown-sand.jpg"
+        }
+    ],
+    "receipes" : [
+        {
+            "id" : 1,
+            "name" : "Сырная тарелка",
+            "image" : "./img/cheese-plate.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese-plate.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Откуда в сыре дырки?",
+            "image" : "./img/cheese.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "Сырная диета",
+            "image" : "./img/cheese-diet.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese-diet.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "посол сырной головки",
+            "image" : "./img/cheese-graud.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese-graud.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "Сырная тарелка",
+            "image" : "./img/big-vino.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/big-vino.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "Сырная тарелка",
+            "image" : "./img/cheeses.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/cheeses.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "посол сырной головки",
+            "image" : "./img/cheese-header.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов сыра. Сначала люди думали, что эти ",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese-heaeder.jpg"
+        },
+        {
+            "id" : 8,
+            "name" : "Сырная тарелка",
+            "image" : "./img/big-plate.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/big-plate.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Откуда в сыре дырки?",
+            "image" : "./img/cheese.jpg",
+            "title" : "Особенно характерно наличие дырочек разных размеров в структуре швейцарских сортов...",
+            "more" : "Читать далее >",
+            "link" : "./img/cheese.jpg"
+        }
+    ],
+    "order" : [
+        {
+            "id" : 1,
+            "title" : "Аромат образующая закваска Danisсo Choozit Flav 43 LYO (5d)",
+            "price" : 600,
+            "delete" : "Удалить",
+            "articul" : "260521",
+            "company" : "Lactofarm ECO, Италия",
+            "image" : "./img/lighty-sand.jpg",
+            "link" : "./img/lighty-sand.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Форма для твердого сыра 1 кг - 40 отверстий",
+            "price" : 1800,
+            "delete" : "Удалить",
+            "articul" : "323432",
+            "company" : "Lactofarm ECO, Италия",
+            "image" : "./img/lighty-sand.jpg",
+            "link" : "./img/lighty-sand.jpg"
+        },
+        {
+            "id" : 3,
+            "title" : "Мезофильная закваска MA 19 (50 DCU)",
+            "price" : 950,
+            "delete" : "Удалить",
+            "articul" : "260521",
+            "company" : "Lactofarm ECO, Италия",
+            "link" : "./img/lighty-sand.jpg"
+        }
+    ],
+    "cart" : [
+        {
+            "id" : 1,
+            "title" : "Кардамон молотый 50 г",
+            "articul" : "323432",
+            "model" : "MZ-0020",
+            "price" : 600,
+            "all" : 600,
+            "image" : "./img/lighty-sand.jpg",
+            "link" : "./img/lighty-sand.jpg"
+        }
+    ]
+}
